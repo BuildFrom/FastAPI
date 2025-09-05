@@ -1,8 +1,2 @@
-# Project
 
-### Installation
-
-```
-make reqs && make run
-```
-
+# Your API

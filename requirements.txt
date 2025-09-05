@@ -1,9 +1,0 @@
-fastapi
-mysql-connector-python
-uvicorn
-python-dotenv
-passlib
-redis
-twilio
-colorama
-jose
